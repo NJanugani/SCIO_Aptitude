@@ -1,0 +1,8 @@
+H:\SCIO-15\SCIO-15\bin\SCIO-15.dll
+H:\SCIO-15\SCIO-15\bin\SCIO-15.pdb
+H:\SCIO-15\SCIO-15\obj\Debug\SCIO-15.dll
+H:\SCIO-15\SCIO-15\obj\Debug\SCIO-15.pdb
+C:\Users\Nishanth\Desktop\Veda 4.1\scio\SCIO-15\SCIO-15\obj\Debug\SCIO-15.dll
+C:\Users\Nishanth\Desktop\Veda 4.1\scio\SCIO-15\SCIO-15\bin\SCIO-15.dll
+C:\Users\Nishanth\Desktop\Veda 4.1\scio\SCIO-15\SCIO-15\bin\SCIO-15.pdb
+C:\Users\Nishanth\Desktop\Veda 4.1\scio\SCIO-15\SCIO-15\obj\Debug\SCIO-15.pdb

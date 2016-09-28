@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Guptha\Desktop\test-1-2-10" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="False">
+    <file relUrl="Images/Q3.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Global.asax" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Site.Master" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Styles/Site.css" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="instructions.aspx" publishTime="10/02/2015 01:44:40" />
+    <file relUrl="About.aspx" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Images/scio poster1 - Copy.jpg" publishTime="10/01/2015 15:04:23" />
+    <file relUrl="Images/sciologo.jpg" publishTime="10/01/2015 15:04:23" />
+    <file relUrl="Account/Web.config" publishTime="10/01/2015 15:03:31" />
+    <file relUrl="Account/Register.aspx" publishTime="10/01/2015 15:03:31" />
+    <file relUrl="Account/Login.aspx" publishTime="10/01/2015 15:03:31" />
+    <file relUrl="Images/Q26.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Images/congo.jpg" publishTime="10/01/2015 15:04:23" />
+    <file relUrl="Images/Q14.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Questions-1.aspx" publishTime="10/02/2015 01:44:21" />
+    <file relUrl="Default.aspx" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="10/01/2015 15:03:31" />
+    <file relUrl="Images/sciologo.png" publishTime="10/01/2015 15:04:23" />
+    <file relUrl="Images/Q25.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Images/Q23.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="logout.aspx" publishTime="10/02/2015 01:44:53" />
+    <file relUrl="Images/Q9.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Images/Black Background Wood - 2560x1600 by Freeman.jpg" publishTime="10/01/2015 15:04:23" />
+    <file relUrl="bin/SCIO-15.pdb" publishTime="10/02/2015 01:42:12" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="10/01/2015 15:03:31" />
+    <file relUrl="Images/Q39.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Images/Q40.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Images/Q15.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="bin/SCIO-15.dll" publishTime="10/02/2015 01:42:13" />
+    <file relUrl="Web.config" publishTime="10/01/2015 16:09:11" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="10/01/2015 15:03:31" />
+  </publishProfile>
+  <publishProfile publishUrl="C:\set-2" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="False" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile2" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Account/Register.aspx.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Global.asax.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Images/Q3.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx.designer.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Global.asax" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Site.Master" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Styles/Site.css" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="instructions.aspx" publishTime="10/02/2015 01:44:40" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="SCIO-15.csproj" publishTime="10/03/2015 01:33:45" />
+    <file relUrl="Account/Register.aspx.designer.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="About.aspx" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Questions-1.aspx.designer.cs" publishTime="10/02/2015 01:42:11" />
+    <file relUrl="Site.Master.designer.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Images/scio poster1 - Copy.jpg" publishTime="10/01/2015 15:04:23" />
+    <file relUrl="Account/Login.aspx.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Images/sciologo.jpg" publishTime="10/01/2015 15:04:23" />
+    <file relUrl="Web.Release.config" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Account/Login.aspx.designer.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Account/Web.config" publishTime="10/01/2015 15:03:31" />
+    <file relUrl="Account/Register.aspx" publishTime="10/01/2015 15:03:31" />
+    <file relUrl="Web.Debug.config" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Account/Login.aspx" publishTime="10/01/2015 15:03:31" />
+    <file relUrl="Default.aspx.designer.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Images/Q26.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Account/ChangePassword.aspx.designer.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Images/congo.jpg" publishTime="10/01/2015 15:04:23" />
+    <file relUrl="instructions.aspx.cs" publishTime="10/01/2015 15:08:23" />
+    <file relUrl="Images/Q14.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Questions-1.aspx" publishTime="10/03/2015 01:19:23" />
+    <file relUrl="Default.aspx" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="10/01/2015 15:03:31" />
+    <file relUrl="Images/sciologo.png" publishTime="10/01/2015 15:04:23" />
+    <file relUrl="Account/ChangePassword.aspx.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Images/Q25.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Questions-1.aspx.cs" publishTime="10/01/2015 20:19:59" />
+    <file relUrl="SCIO-15.csproj.user" publishTime="10/03/2015 01:33:45" />
+    <file relUrl="Images/Q23.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="logout.aspx" publishTime="10/03/2015 01:53:39" />
+    <file relUrl="Images/Q9.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Images/Black Background Wood - 2560x1600 by Freeman.jpg" publishTime="10/01/2015 15:04:23" />
+    <file relUrl="logout.aspx.cs" publishTime="10/01/2015 15:15:06" />
+    <file relUrl="bin/SCIO-15.pdb" publishTime="10/03/2015 01:51:11" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="10/01/2015 15:03:31" />
+    <file relUrl="Site.Master.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="About.aspx.designer.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="Images/Q39.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Images/Q40.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="Images/Q15.jpg" publishTime="10/01/2015 19:18:55" />
+    <file relUrl="bin/SCIO-15.dll" publishTime="10/03/2015 01:51:12" />
+    <file relUrl="Default.aspx.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="instructions.aspx.designer.cs" publishTime="10/01/2015 15:08:31" />
+    <file relUrl="Web.config" publishTime="10/01/2015 16:09:11" />
+    <file relUrl="About.aspx.cs" publishTime="10/01/2015 15:03:32" />
+    <file relUrl="logout.aspx.designer.cs" publishTime="10/03/2015 01:51:10" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="10/01/2015 15:03:31" />
+  </publishProfile>
+</publishData>
